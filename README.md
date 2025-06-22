@@ -20,13 +20,3 @@ It includes table creation, indexes, views, functions, stored procedures, initia
 3. Run the seed script (`007_seed_data.sql`) to populate initial data.  
 4. Use the scripts in `queries/` for data retrieval and updates.  
 5. Validate everything with the scripts in `tests/`.  
-
-## Recommendations
-
-- Always back up your database before making changes.  
-- Use Git for version control and create branches for modifications.  
-- Document all changes to avoid issues later.  
-
----
-
-Created by Cria — with style and street smarts.
